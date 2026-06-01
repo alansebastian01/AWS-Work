@@ -27,7 +27,6 @@ Used to define and create database structures.
 
   * `VARCHAR`
   * `CHAR`
-* Row name
 * Column name
 
 ---
