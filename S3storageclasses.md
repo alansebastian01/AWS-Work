@@ -206,7 +206,7 @@ This is the marketing phrase AWS uses for S3 Express One Zone.
 | ------------------------------------- | ---------------------------------------- |
 | Unknown access pattern                | Intelligent-Tiering                      |
 | Mixed daily/yearly access             | Intelligent-Tiering                      |
-| Re-creatable data                     | One Zone-IA                              |
+| Re-creatable data                     | One Zone-IA(Infrequent Access)           |
 | Rarely accessed + immediate retrieval | Standard-IA or Glacier Instant Retrieval |
 | Archive + retrieval in hours          | Glacier Flexible Retrieval               |
 | Long-term archive                     | Glacier Deep Archive                     |
