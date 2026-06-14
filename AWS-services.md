@@ -30,13 +30,13 @@ Based on the ZIP file, here’s the AWS service list with quick real-time exampl
 | **Transit Gateway**               | Connect many VPCs like a network hub.                           |
 | **Global Accelerator**            | Improve global app performance and failover.                    |
 | **IAM**                           | Users, groups, roles, permissions. Tip: “who can do what.”      |
-| **STS**                           | Temporary security credentials.                                 |
+| **STS(Security Token Sevice)**                           | Temporary security credentials.                                 |
 | **GuardDuty**                     | Threat detection. Tip: suspicious activity = GuardDuty.         |
 | **Inspector**                     | Vulnerability scanning for EC2/container workloads.             |
 | **Macie**                         | Finds sensitive data/PII in S3.                                 |
 | **Security Hub**                  | Central security findings dashboard.                            |
 | **Shield**                        | DDoS protection.                                                |
-| **AWS WAF**                       | Web firewall; block IPs, SQL injection, countries.              |
+| **AWS WAF(Web Application Firewall)** | Web firewall; block IPs, SQL injection, countries.              |
 | **CloudTrail**                    | Audit API activity. Tip: “who did what?”                        |
 | **AWS Artifact**                  | Compliance reports like SOC, ISO, PCI.                          |
 | **CloudWatch**                    | Metrics, logs, alarms. Tip: monitoring = CloudWatch.            |
@@ -50,9 +50,9 @@ Based on the ZIP file, here’s the AWS service list with quick real-time exampl
 | **Application Migration Service** | Lift-and-shift servers to AWS.                                  |
 | **Migration Hub**                 | Track migration progress in one place.                          |
 | **CloudFormation**                | Infrastructure as Code.                                         |
-| **AWS CDK**                       | Define cloud infrastructure using code.                         |
+| **AWS CDK(Cloud Development Kit)**  | Define cloud infrastructure using code.                         |
 | **AWS Pricing Calculator**        | Estimate cost before using AWS.                                 |
-| **AWS Support / TAM**             | Help with AWS issues; TAM comes with Enterprise Support.        |
+| **AWS Support / TAM(Technical Account Manager)**| Help with AWS issues; TAM comes with Enterprise Support.        |
 
 **Best exam shortcut:**
 Monitoring = **CloudWatch**
