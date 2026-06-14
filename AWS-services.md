@@ -24,7 +24,7 @@ Based on the ZIP file, here’s the AWS service list with quick real-time exampl
 | **Redshift**                      | Data warehouse for analytics.                                   |
 | **Neptune**                       | Graph database for relationships.                               |
 | **Route 53**                      | DNS/domain routing.                                             |
-| **CloudFront**                    | CDN for faster global content delivery.                         |
+| **CloudFront**                    | CDN(Content Delivery Network) for faster global content delivery.|
 | **Direct Connect**                | Dedicated private connection to AWS.                            |
 | **Site-to-Site VPN**              | Encrypted connection from office to AWS.                        |
 | **Transit Gateway**               | Connect many VPCs like a network hub.                           |
