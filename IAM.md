@@ -272,3 +272,14 @@ If you see:
 | EC2 credentials           | IAM Role, not access keys |
 
 These IAM questions appear repeatedly on CLF-C02 in slightly different wording, so memorizing the **keyword → service** mapping above gives a big payoff.
+
+| Scenario                             | Correct IAM Option |
+| ------------------------------------ | ------------------ |
+| Employee needs AWS Console access    | IAM User           |
+| 100 developers need same permissions | IAM Group          |
+| EC2 needs access to S3               | IAM Role           |
+| Lambda needs DynamoDB access         | IAM Role           |
+| Define permissions                   | IAM Policy         |
+| Temporary cross-account access       | IAM Role           |
+| Full AWS account owner access        | Root User          |
+
