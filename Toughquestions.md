@@ -99,3 +99,41 @@ C. Repurchase Most Voted
 D. Replatform
 E. Refactor
 
+A company runs MySQL database workloads on self-managed servers in an on-premises data center. The company wants to migrate the database workloads to an AWS managed service.
+
+Which migration strategy should the company use?
+
+A. Rehost
+B. Repurchase
+C. Refactor
+D. Replatform 
+
+A company wants to implement detailed tracking of its cloud costs by department and project.
+
+Which AWS feature or service should the company use?
+
+A. Consolidated billing
+B. Cost allocation tags Most Voted
+C. AWS Marketplace
+D. AWS Budgets
+
+A company wants to manage its cloud resources by using infrastructure as code (IaC) templates. The company needs to meet compliance requirements.
+
+Which AWS service should the company use to meet these requirements?
+
+A. AWS Artifact
+B. AWS Resource Explorer
+C. AWS License Manager
+D. AWS Service Catalog
+
+A company wants to migrate all of its on-premises infrastructure to the AWS Cloud. Before migration, the company wants estimate of costs for running its as-is infrastructure.
+
+Which AWS service or principle should the company use to meet this requirement?
+
+A. AWS Pricing Calculator
+B. AWS Well-Architected Framework
+C. AWS shared responsibility model
+D. AWS Cloud Adoption Framework (AWS CAF)
+
+
+
