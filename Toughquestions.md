@@ -344,4 +344,14 @@ B. AWS Service Catalog Most Voted
 C. Amazon GuardDuty
 D. AWS Security Hub
 
+Question #216Topic 1
+A company has teams that have different job roles and responsibilities. The company’s employees often change teams. The company needs to manage permissions for the employees so that the permissions are appropriate for the job responsibilities.
+
+Which IAM resource should the company use to meet this requirement with the LEAST operational overhead?
+
+A. IAM user groups Most Voted
+B. IAM roles
+C. IAM instance profiles
+D. IAM policies for individual users
+
 
