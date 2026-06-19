@@ -259,4 +259,89 @@ AWS Site-to-Site VPN service
 AWS Direct Connect
 Amazon VPC
 
+Which Amazon S3 feature or storage class uses the AWS backbone network and edge locations to reduce latencies from the end user to Amazon S3?
+
+A. S3 Cross-Region Replication
+B. S3 Transfer Acceleration Most Voted
+C. S3 Event Notifications
+D. S3 Standard-Infrequent Access (S3 Standard-IA)
+
+Which AWS Cloud Adoption Framework (AWS CAF) capability belongs to the business perspective?
+
+A. Program and project management
+B. Data science Most Voted
+C. Observability
+D. Change and release management
+
+Which AWS service or resource can identify and provide reports on IAM resources in one AWS account that is shared with another AWS account?
+
+A. IAM credential report
+B. AWS IAM Identity Center (AWS Single Sign-On)
+C. AWS Identity and Access Management Access Analyzer Most Voted
+D. Amazon Cognito user pool
+
+Which AWS Cloud Adoption Framework (AWS CAF) capabilities belong to the governance perspective? (Choose two.)
+
+A. Program and project management Most Voted
+B. Product management
+C. Portfolio management
+D. Risk management Most Voted
+E. Event management
+
+A company wants to use machine learning capabilities to analyze log data from its Amazon EC2 instances and efficiently conduct security investigations.
+
+Which AWS service will meet these requirements?
+
+A. Amazon Inspector
+B. Amazon QuickSight
+C. Amazon Detective 
+D Amazon GuardDuty
+
+Which complimentary AWS service or tool creates data-driven business cases for cloud planning?
+
+A. Migration Evaluator Most Voted
+B. AWS Billing Conductor
+C. AWS Billing Console
+D. Amazon Forecast
+
+Which AWS service can migrate data between AWS storage services?
+
+A. AWS DataSync Most Voted
+B. AWS Direct Connect
+C. AWS Lake Formation
+D. Amazon S3
+
+A company wants to enhance security by launching a third-party ISP intrusion detection system from its AWS account.
+
+Which AWS service or resource should the company use to meet this requirement?
+
+A. AWS Security Hub
+B. AWS Marketplace Most Voted
+C. AWS Quick Starts
+D. AWS Security Center
+
+ Which AWS service or tool gives a company the ability to release application changes in an automated way?
+
+A. Amazon AppFlow
+B. AWS CodeDeploy Most Voted
+C. AWS PrivateLink
+D. Amazon EKS Distro
+
+Which AWS service or resource can a company use to deploy AWS WAF rules?
+
+A. Amazon EC2
+B. Application Load Balancer Most Voted
+C. AWS Trusted Advisor
+D. Network Load Balancer
+
+Question #436Topic 1
+A company wants to use a centralized AWS service to enforce compliance with the organizational business standards. The company wants to use an AWS service that can govern and control who can deploy, manage, and decommission AWS resources.
+
+Which AWS service will meet these requirements?
+
+A. Amazon CloudWatch
+B. AWS Service Catalog Most Voted
+C. Amazon GuardDuty
+D. AWS Security Hub
+
 
