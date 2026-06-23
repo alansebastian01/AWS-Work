@@ -1,386 +1,122 @@
-# AWS CAF Master Study Sheet (All CAF Questions from Your 719-Question Set)
+Yes — I was finally able to extract the ZIP and verify the CAF questions directly.
 
-## Memorize These 6 Perspectives
+There are **33 CAF-related questions** in your 719-question bank:
 
-| Perspective | Keyword   | What It Does                       |
-| ----------- | --------- | ---------------------------------- |
-| Business    | Value     | Business outcomes and strategy     |
-| People      | Workforce | Skills, culture, transformation    |
-| Governance  | Control   | Risk, compliance, finance          |
-| Platform    | Build     | Applications, infrastructure, data |
-| Security    | Protect   | IAM, detection, protection         |
-| Operations  | Run       | Monitoring, incidents, operations  |
+**6, 45, 101, 114, 127, 134, 137, 142, 145, 178, 252, 257, 258, 292, 295, 303, 315, 325, 335, 344, 379, 381, 382, 383, 387, 422, 439, 507, 514, 601, 670, 676, 709**
 
-### Exam Shortcut
+Here are some of the exact questions from the file:
 
-**Business = Why**
-**People = Who**
-**Governance = Rules & Money**
-**Platform = Build**
-**Security = Protect**
-**Operations = Run**
+### Q6
+
+Which option is a perspective that includes foundational capabilities of the AWS Cloud Adoption Framework (AWS CAF)?
+
+A. Sustainability
+B. Performance efficiency
+C. Governance
+D. Reliability
+
+✅ **Answer: C. Governance**
 
 ---
 
-# Questions from Your File
+### Q45
 
-## Q6
+Which AWS Cloud Adoption Framework (AWS CAF) capability belongs to the people perspective?
 
-Which option is a perspective that includes foundational capabilities of AWS CAF?
+A. Data architecture
+B. Event management
+C. Cloud fluency
+D. Strategic partnership
 
-**Answer:** Governance
-
-**Why:** Governance handles compliance, risk, portfolio management, and financial oversight.
-
----
-
-## Q45
-
-Which AWS CAF capability belongs to the people perspective?
-
-**Answer:** Cloud fluency
-
-**Why:** Cloud fluency is about workforce skills and cloud knowledge.
+✅ **Answer: C. Cloud fluency**
 
 ---
 
-## Q101
+### Q258
 
-Which AWS CAF platform perspective capability?
+A company wants to migrate its applications to the AWS Cloud. The company plans to identify and prioritize any business transformation opportunities and evaluate its AWS Cloud readiness.
 
-**Answer:** Data architecture
+Which AWS service or tool should the company use?
 
----
+A. AWS Cloud Adoption Framework (AWS CAF)
+B. AWS Managed Services (AMS)
+C. AWS Well-Architected Framework
+D. AWS Migration Hub
 
-## Q114
-
-A company wants to improve cloud skills and workforce readiness.
-
-**Answer:** People Perspective
-
----
-
-## Q127
-
-Which perspective helps organizations transform their workforce?
-
-**Answer:** People
+✅ **Answer: A. AWS CAF**
 
 ---
 
-## Q134
+### Q382
 
-Which perspective focuses on risk management and compliance?
+Which options are AWS Cloud Adoption Framework (AWS CAF) people perspective capabilities? (Choose two.)
 
-**Answer:** Governance
+A. Organizational alignment
+B. Portfolio management
+C. Organization design
+D. Risk management
+E. Modern application development
 
----
-
-## Q137
-
-Which capability belongs to Governance?
-
-**Answer:** Cloud financial management
+✅ **Answers: A and C**
 
 ---
 
-## Q142
+### Q383
 
-Which perspective includes data architecture?
+A company needs a bridge between technology and business to help evolve to a culture of continuous growth and learning.
 
-**Answer:** Platform
+Which perspective in the AWS Cloud Adoption Framework (AWS CAF) serves as this bridge?
 
----
+A. People
+B. Governance
+C. Operations
+D. Security
 
-## Q145
-
-Which perspective focuses on monitoring and operations?
-
-**Answer:** Operations
-
----
-
-## Q178
-
-Which perspective includes threat detection?
-
-**Answer:** Security
+✅ **Answer: A. People**
 
 ---
 
-## Q252
+### Q344
 
-Company wants to adopt AWS at scale and operate efficiently.
+Which options are AWS Cloud Adoption Framework (AWS CAF) governance perspective capabilities? (Choose two.)
 
-**Answer:** AWS Cloud Adoption Framework (CAF)
+A. Identity and access management
+B. Cloud financial management
+C. Application portfolio management
+D. Innovation management
+E. Product management
 
----
-
-## Q257
-
-Monitor workload performance and service delivery.
-
-**Answer:** Operations
+✅ **Answers: B and C**
 
 ---
 
-## Q258
-
-Identify transformation opportunities and assess cloud readiness.
-
-**Answer:** AWS CAF
-
----
-
-## Q292
-
-Which perspective manages organizational transformation?
-
-**Answer:** People
-
----
-
-## Q295
-
-Which perspective aligns cloud investments with business outcomes?
-
-**Answer:** Business
-
----
-
-## Q303
-
-Which perspective focuses on application and infrastructure engineering?
-
-**Answer:** Platform
-
----
-
-## Q315
-
-Develop a digitally fluent workforce.
-
-**Answer:** People
-
----
-
-## Q325
-
-Identify security misconfigurations and unexpected behavior.
-
-**Answer:** Threat Detection
-
----
-
-## Q335
-
-AWS CAF transformation journey phases.
-
-**Answers:**
-
-* Mobilize
-* Migrate and Modernize
-
----
-
-## Q344
-
-Governance perspective capabilities.
-
-**Answers:**
-
-* Cloud Financial Management
-* Application Portfolio Management
-
----
-
-## Q379
-
-Business perspective capability.
-
-**Answer:** Program and Project Management
-
----
-
-## Q381
-
-Perspective with well-designed data and analytics architecture.
-
-**Answer:** Platform
-
----
-
-## Q382
-
-People perspective capabilities.
-
-**Answers:**
-
-* Organizational Alignment
-* Organization Design
-
----
-
-## Q383
-
-Bridge between technology and business.
-
-**Answer:** People
-
----
-
-## Q387
-
-Governance perspective capabilities.
-
-**Answers:**
-
-* Portfolio Management
-* Risk Management
-
----
-
-## Q422
-
-Managing identities and permissions at scale.
-
-**Answer:** Security
-
----
-
-## Q439
-
-AWS CAF perspectives.
-
-**Answers:**
-
-* Security
-* Business
-
----
-
-## Q507
-
-Which perspective focuses on service management and incident response?
-
-**Answer:** Operations
-
----
-
-## Q514
-
-Estimate AWS monthly costs.
-
-**Answer:** AWS Pricing Calculator
-
----
-
-## Q601
-
-Inventory data products in a data catalog.
-
-**Answer:** Platform
-
----
-
-## Q670
-
-Which perspective includes identity and access management?
-
-**Answer:** Security
-
----
-
-## Q676
-
-Which perspective focuses on organizational change?
-
-**Answer:** People
-
----
-
-## Q709
-
-Which perspective focuses on cloud financial management?
-
-**Answer:** Governance
-
----
-
-# High-Yield Capability Mapping
-
-### Business
-
-* Strategic management
-* Business value
-* Innovation management
-* Product management
-
-### People
-
-* Cloud fluency
-* Workforce transformation
-* Organizational design
-* Organizational alignment
-
-### Governance
-
-* Risk management
-* Compliance management
-* Portfolio management
-* Cloud financial management
-* Data governance
-
-### Platform
-
-* Data architecture
-* Data science
-* Application modernization
-* Infrastructure engineering
-* Platform engineering
-
-### Security
-
-* IAM
-* Threat detection
-* Data protection
-* Security assurance
-
-### Operations
-
-* Observability
-* Event management
-* Incident management
-* Change management
-* Service management
-
----
-
-# CAF Exam Crams (Very Common)
-
-| If You See                 | Answer     |
-| -------------------------- | ---------- |
-| Workforce transformation   | People     |
-| Cloud fluency              | People     |
-| Organizational alignment   | People     |
-| Risk management            | Governance |
-| Compliance                 | Governance |
-| Cloud financial management | Governance |
-| Data architecture          | Platform   |
-| Data science               | Platform   |
-| Infrastructure engineering | Platform   |
-| IAM                        | Security   |
-| Threat detection           | Security   |
-| Data protection            | Security   |
-| Monitoring                 | Operations |
-| Incident response          | Operations |
-| Observability              | Operations |
-| Change management          | Operations |
-| Business value             | Business   |
-| Strategic planning         | Business   |
-
-If you're taking CLF-C02 soon, CAF is usually only **3–6 questions**, but they're among the easiest points once you memorize this table.
-
+For exam prep, the fastest way to answer almost all 33 CAF questions is to memorize this:
+
+| Perspective    | Keywords                                                                               |
+| -------------- | -------------------------------------------------------------------------------------- |
+| **Business**   | Strategy, value, innovation, product management                                        |
+| **People**     | Cloud fluency, workforce transformation, organization design, organizational alignment |
+| **Governance** | Risk, compliance, cloud financial management, portfolio management                     |
+| **Platform**   | Data architecture, data science, platform engineering, application modernization       |
+| **Security**   | IAM, threat detection, data protection                                                 |
+| **Operations** | Monitoring, observability, incident management, change management                      |
+
+And these recurring answers from your bank:
+
+* **Cloud fluency → People**
+* **Organizational alignment → People**
+* **Organization design → People**
+* **Cloud financial management → Governance**
+* **Portfolio management → Governance**
+* **Risk management → Governance**
+* **Data architecture → Platform**
+* **Data science → Platform**
+* **IAM → Security**
+* **Threat detection → Security**
+* **Monitoring workload performance → Operations**
+* **Observability → Operations**
+
+If you want, I can also give you a **33-question CAF-only practice quiz (same style as the exam, shuffled, answers hidden)** so you can drill every CAF question from the bank in 10 minutes.
 
 
 
