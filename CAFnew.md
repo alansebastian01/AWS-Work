@@ -132,7 +132,6 @@ If you want, I can also give you a **33-question CAF-only practice quiz (same st
 
 
 
-
 Yes. AWS updated the **Cloud Adoption Framework (AWS CAF)** from the older **6 Perspectives** model to a newer **6 Perspectives / 47 Capabilities** model. Many certification questions now use the newer capability names.
 
 ## AWS CAF (Current Version)
