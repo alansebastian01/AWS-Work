@@ -1,5 +1,13 @@
 [AWS_CAF_33_Question_Study_Guide.xlsx](https://github.com/user-attachments/files/29233204/AWS_CAF_33_Question_Study_Guide.xlsx)
                      |
+| Perspective    | Keywords                                            |
+| -------------- | --------------------------------------------------- |
+| **Business**   | strategy, business outcomes, value realization      |
+| **People**     | training, skills, workforce, cloud fluency          |
+| **Governance** | budgeting, finance, portfolios, compliance          |
+| **Platform**   | infrastructure, data, applications, DevOps          |
+| **Security**   | IAM, threat detection, incident response            |
+| **Operations** | monitoring, incident management, service operations |
 
 And these recurring answers from your bank:
 
